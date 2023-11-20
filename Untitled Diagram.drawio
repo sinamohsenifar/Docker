@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-20T12:59:54.343Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="067P14DOw2YUB9J4l10w" version="22.1.3" type="github">
+<mxfile modified="2023-11-20T13:00:01.262Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Pz_LWocN9DVbrK9Y6bk7" version="22.1.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="3104" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -584,7 +584,7 @@
         </mxCell>
         <mxCell id="hO-LSlD0LSvVnReztD1K-374" value="eir_notify" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hO-LSlD0LSvVnReztD1K-373">
           <mxGeometry x="0.7178" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="2" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hO-LSlD0LSvVnReztD1K-219" value="Kafka ClusterIP" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=svc" vertex="1" parent="1">
