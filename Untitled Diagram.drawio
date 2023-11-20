@@ -1,6 +1,6 @@
-<mxfile modified="2023-11-20T11:19:10.331Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="5BKDM5-vHcPJnMjP9zMj" version="22.1.3" type="github">
+<mxfile modified="2023-11-20T11:23:28.812Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="1srMW5K5tv-56YIptQq-" version="22.1.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="3071" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2622" dy="145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -653,6 +653,42 @@
           <mxGeometry x="-0.724" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-267" target="hO-LSlD0LSvVnReztD1K-245">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-267" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="-2040" y="134" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-268" target="hO-LSlD0LSvVnReztD1K-247">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-268" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="-2040" y="257.5" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-269" target="hO-LSlD0LSvVnReztD1K-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-269" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="-2040" y="383.5" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-274" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="-2030" y="144" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-275" value="MTN EIR SERVERS" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="-2020" y="154" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-276" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="-2030" y="267.5" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-277" value="MCI EIR SERVERS" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="-2020" y="277.5" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-278" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="-2030" y="393.5" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-279" value="RTL EIR SERVERS" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="-2020" y="403.5" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
