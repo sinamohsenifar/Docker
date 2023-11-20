@@ -1,6 +1,6 @@
-<mxfile modified="2023-11-20T12:32:33.205Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="BwQf7KR9sEkdKVwXyLly" version="22.1.3" type="github">
+<mxfile modified="2023-11-20T12:40:31.908Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="8mVdO_Oy1PAkt1g5WGxA" version="22.1.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="2821" dy="243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2644" dy="159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -564,6 +564,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-347" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-219" target="hO-LSlD0LSvVnReztD1K-346">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-348" value="eir_log" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hO-LSlD0LSvVnReztD1K-347">
+          <mxGeometry x="0.7016" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hO-LSlD0LSvVnReztD1K-219" value="Kafka ClusterIP" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=svc" vertex="1" parent="1">
           <mxGeometry x="-1270" y="500" width="50" height="48" as="geometry" />
         </mxCell>
@@ -890,6 +898,22 @@
               <mxPoint x="-1139" y="820" />
               <mxPoint x="-1201" y="820" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-346" value="&lt;div&gt;Logstash&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.elasticsearch_service;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="614" width="70" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-349" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-346" target="hO-LSlD0LSvVnReztD1K-299">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1400" y="657" />
+              <mxPoint x="-1400" y="759" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-350" value="&lt;div&gt;logreader&lt;/div&gt;&lt;div&gt;eir_log&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hO-LSlD0LSvVnReztD1K-349">
+          <mxGeometry x="0.1657" y="3" relative="1" as="geometry">
+            <mxPoint x="7" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
