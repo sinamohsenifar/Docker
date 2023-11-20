@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-20T09:33:32.304Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="y5p7Lk5moeVQov3NVC0T" version="22.1.3" type="github">
+<mxfile modified="2023-11-20T09:33:49.015Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="_cSW0A65sQTSIe25YuKl" version="22.1.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1776" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -258,7 +258,7 @@
         <mxCell id="hO-LSlD0LSvVnReztD1K-111" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="369" width="140" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="hO-LSlD0LSvVnReztD1K-112" value="Core-ClusterIP" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;shape=mxgraph.kubernetes.icon;prIcon=svc;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="hO-LSlD0LSvVnReztD1K-111">
+        <mxCell id="hO-LSlD0LSvVnReztD1K-112" value="&lt;font color=&quot;#000000&quot;&gt;Core-ClusterIP&lt;/font&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;shape=mxgraph.kubernetes.icon;prIcon=svc;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="hO-LSlD0LSvVnReztD1K-111">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
@@ -269,7 +269,7 @@
         <mxCell id="hO-LSlD0LSvVnReztD1K-114" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="388" width="140" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="hO-LSlD0LSvVnReztD1K-115" value="Core-NodePort" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;shape=mxgraph.kubernetes.icon;prIcon=svc;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="hO-LSlD0LSvVnReztD1K-114">
+        <mxCell id="hO-LSlD0LSvVnReztD1K-115" value="&lt;font color=&quot;#000000&quot;&gt;Core-NodePort&lt;/font&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;shape=mxgraph.kubernetes.icon;prIcon=svc;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="hO-LSlD0LSvVnReztD1K-114">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
