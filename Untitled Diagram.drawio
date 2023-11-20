@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-20T11:27:43.691Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="YqGMZevsN4Mn9_vFZ32t" version="22.1.3" type="github">
+<mxfile modified="2023-11-20T11:31:59.262Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="zf70DcKqQAD_UNykP7di" version="22.1.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="3042" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -729,6 +729,42 @@
         </mxCell>
         <mxCell id="hO-LSlD0LSvVnReztD1K-296" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_mariadb_instance;" vertex="1" parent="1">
           <mxGeometry x="-1950" y="321.5" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-297" value="4.2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance_2;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1205" y="743" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-298" value="4.3" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance_2;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="743" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-299" value="4.4" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance_2;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="749" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-303" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-231" target="hO-LSlD0LSvVnReztD1K-297">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-955" y="760" />
+              <mxPoint x="-1062" y="760" />
+              <mxPoint x="-1062" y="759" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-304" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-234" target="hO-LSlD0LSvVnReztD1K-297">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-865" y="760" />
+              <mxPoint x="-1020" y="760" />
+              <mxPoint x="-1020" y="759" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-305" value="GOLDEN-GATE" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_datasync;" vertex="1" parent="1">
+          <mxGeometry x="-1009.5" y="806" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-307" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-297" target="hO-LSlD0LSvVnReztD1K-305">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-308" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-305" target="hO-LSlD0LSvVnReztD1K-298">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
