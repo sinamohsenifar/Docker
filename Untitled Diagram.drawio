@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-20T11:33:52.112Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="JlQTeV7H8IUbj3va0MOz" version="22.1.3" type="github">
+<mxfile modified="2023-11-20T11:35:31.853Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="7lYeLRRSfbxEFXCFz2jM" version="22.1.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="3042" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -737,7 +737,7 @@
           <mxGeometry x="-830" y="743" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="hO-LSlD0LSvVnReztD1K-299" value="4.4" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance_2;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="870" width="60" height="63" as="geometry" />
+          <mxGeometry x="-830" y="840" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="hO-LSlD0LSvVnReztD1K-303" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-231" target="hO-LSlD0LSvVnReztD1K-297">
           <mxGeometry relative="1" as="geometry">
@@ -758,9 +758,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hO-LSlD0LSvVnReztD1K-305" value="GOLDEN-GATE" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_datasync;" vertex="1" parent="1">
-          <mxGeometry x="-1009.5" y="806" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="-1000" y="790" width="37.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hO-LSlD0LSvVnReztD1K-307" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-297" target="hO-LSlD0LSvVnReztD1K-305">
+        <mxCell id="hO-LSlD0LSvVnReztD1K-307" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-297" target="hO-LSlD0LSvVnReztD1K-305">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hO-LSlD0LSvVnReztD1K-312" value="ALL-Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hO-LSlD0LSvVnReztD1K-307">
@@ -768,27 +768,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hO-LSlD0LSvVnReztD1K-308" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-305" target="hO-LSlD0LSvVnReztD1K-298">
+        <mxCell id="hO-LSlD0LSvVnReztD1K-308" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-305" target="hO-LSlD0LSvVnReztD1K-298">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hO-LSlD0LSvVnReztD1K-311" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-309" target="hO-LSlD0LSvVnReztD1K-299">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hO-LSlD0LSvVnReztD1K-309" value="GOLDEN-GATE" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_datasync;" vertex="1" parent="1">
-          <mxGeometry x="-1010" y="900" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="-1000" y="876.5" width="37.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hO-LSlD0LSvVnReztD1K-310" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.86;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-297" target="hO-LSlD0LSvVnReztD1K-309">
+        <mxCell id="hO-LSlD0LSvVnReztD1K-314" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-297" target="hO-LSlD0LSvVnReztD1K-309">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1175" y="880" />
-              <mxPoint x="-1080" y="880" />
-              <mxPoint x="-1080" y="943" />
+              <mxPoint x="-1175" y="901" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hO-LSlD0LSvVnReztD1K-313" value="Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hO-LSlD0LSvVnReztD1K-310">
-          <mxGeometry x="0.1893" y="-8" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
