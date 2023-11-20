@@ -1,6 +1,6 @@
-<mxfile modified="2023-11-20T09:33:49.015Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="_cSW0A65sQTSIe25YuKl" version="22.1.3" type="github">
+<mxfile modified="2023-11-20T09:36:28.229Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="ZsEPsDtgHGRgAdcTCxu0" version="22.1.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="1776" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1902" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -335,6 +335,47 @@
           <mxGeometry x="225" y="769" width="140" height="51" as="geometry" />
         </mxCell>
         <mxCell id="hO-LSlD0LSvVnReztD1K-138" value="&lt;font color=&quot;#000000&quot;&gt;Rest-NodePort&lt;/font&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;shape=mxgraph.kubernetes.icon;prIcon=svc;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="hO-LSlD0LSvVnReztD1K-137">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-139" value="&lt;div&gt;TAC-Updater Pod in Kubernetes Environment&lt;/div&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;shadow=0;dashed=1;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;dashPattern=1 2;strokeWidth=2;strokeColor=#00FF80;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="255.5" width="450" height="214.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-142" target="hO-LSlD0LSvVnReztD1K-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-142" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="315" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-143" value="&lt;font color=&quot;#000000&quot;&gt;TAC-Pod&lt;/font&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;shape=mxgraph.kubernetes.icon;prIcon=master;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="hO-LSlD0LSvVnReztD1K-142">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-146" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="364" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-147" value="&lt;div&gt;Prometheus&lt;/div&gt;&lt;div&gt;Pod-Exporter&lt;br&gt;&lt;/div&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;shape=mxgraph.kubernetes.icon;prIcon=pod;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="hO-LSlD0LSvVnReztD1K-146">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hO-LSlD0LSvVnReztD1K-150" target="hO-LSlD0LSvVnReztD1K-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-150" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="314.5" width="140" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-151" value="TAC-ClusterIP" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;shape=mxgraph.kubernetes.icon;prIcon=svc;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="hO-LSlD0LSvVnReztD1K-150">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-153" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="439" width="140" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="hO-LSlD0LSvVnReztD1K-154" value="TAC-NodePort" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;shape=mxgraph.kubernetes.icon;prIcon=svc;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="hO-LSlD0LSvVnReztD1K-153">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
