@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-21T09:01:07.067Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="ywyMoyYzpDIDq3rcgR6j" version="22.1.3" type="github">
+<mxfile modified="2023-11-21T09:01:26.102Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="2LRWkwgUdVZBwajTJFUt" version="22.1.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="2945" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1919,9 +1919,9 @@
         <mxCell id="WKTKmcEFWRnHBM82iFPJ-315" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="WKTKmcEFWRnHBM82iFPJ-312" target="WKTKmcEFWRnHBM82iFPJ-216">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WKTKmcEFWRnHBM82iFPJ-316" value="&lt;div&gt;kafka.settings&lt;/div&gt;&lt;div&gt;topic&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WKTKmcEFWRnHBM82iFPJ-315">
+        <mxCell id="WKTKmcEFWRnHBM82iFPJ-316" value="settings topic" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WKTKmcEFWRnHBM82iFPJ-315">
           <mxGeometry x="0.1331" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WKTKmcEFWRnHBM82iFPJ-312" value="Portal" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;labelBackgroundColor=none;" vertex="1" parent="1">
