@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-21T08:52:20.228Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="NQ-zuHQ3AL2oxT0A2HRd" version="22.1.3" type="github">
+<mxfile modified="2023-11-21T08:53:29.542Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="q2i2NT3tLRPXTOLf1bs7" version="22.1.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="2945" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1890,7 +1890,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WKTKmcEFWRnHBM82iFPJ-305" value="MNO LOGS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WKTKmcEFWRnHBM82iFPJ-304">
+        <mxCell id="WKTKmcEFWRnHBM82iFPJ-305" value="&lt;div&gt;RSYSLOG SENDS&lt;/div&gt;&lt;div&gt;MNO LOGS&lt;/div&gt;&lt;div&gt;TO‌ KAFKA&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WKTKmcEFWRnHBM82iFPJ-304">
           <mxGeometry x="-0.869" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
