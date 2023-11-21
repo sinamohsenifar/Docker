@@ -1,6 +1,6 @@
-<mxfile modified="2023-11-21T08:37:41.628Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Ou2gqrkBEjZnEMwywqse" version="22.1.3" type="github">
+<mxfile modified="2023-11-21T08:38:36.307Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="MseAc17FFcm_VI8zse_x" version="22.1.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="2967" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2697" dy="183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1849,10 +1849,11 @@
         <mxCell id="WKTKmcEFWRnHBM82iFPJ-268" value="&lt;div&gt;LogstashPod&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.elasticsearch_service;" vertex="1" parent="1">
           <mxGeometry x="-565" y="2068" width="70" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="WKTKmcEFWRnHBM82iFPJ-269" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="WKTKmcEFWRnHBM82iFPJ-268" target="WKTKmcEFWRnHBM82iFPJ-273">
+        <mxCell id="WKTKmcEFWRnHBM82iFPJ-269" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="WKTKmcEFWRnHBM82iFPJ-268" target="WKTKmcEFWRnHBM82iFPJ-273">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-525" y="2268" />
+              <mxPoint x="-525" y="2250" />
+              <mxPoint x="-385" y="2250" />
             </Array>
             <mxPoint x="-410" y="2250" as="targetPoint" />
           </mxGeometry>
@@ -1874,20 +1875,20 @@
         <mxCell id="WKTKmcEFWRnHBM82iFPJ-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="WKTKmcEFWRnHBM82iFPJ-274" target="WKTKmcEFWRnHBM82iFPJ-272">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WKTKmcEFWRnHBM82iFPJ-282" value="ALL-Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WKTKmcEFWRnHBM82iFPJ-281">
+        <mxCell id="WKTKmcEFWRnHBM82iFPJ-282" value="ALL-Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="WKTKmcEFWRnHBM82iFPJ-281">
           <mxGeometry x="0.1527" y="-1" relative="1" as="geometry">
-            <mxPoint x="-5" y="-1" as="offset" />
+            <mxPoint x="-5" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WKTKmcEFWRnHBM82iFPJ-274" value="GOLDEN-GATE" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_datasync;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2230.5" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="10" y="2230.5" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WKTKmcEFWRnHBM82iFPJ-275" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="WKTKmcEFWRnHBM82iFPJ-271" target="WKTKmcEFWRnHBM82iFPJ-274">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WKTKmcEFWRnHBM82iFPJ-276" value="ALL-Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WKTKmcEFWRnHBM82iFPJ-275">
+        <mxCell id="WKTKmcEFWRnHBM82iFPJ-276" value="ALL-Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="WKTKmcEFWRnHBM82iFPJ-275">
           <mxGeometry x="0.0314" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WKTKmcEFWRnHBM82iFPJ-277" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="WKTKmcEFWRnHBM82iFPJ-278" target="WKTKmcEFWRnHBM82iFPJ-273">
