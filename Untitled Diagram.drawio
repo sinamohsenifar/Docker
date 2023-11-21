@@ -1,6 +1,6 @@
-<mxfile modified="2023-11-21T05:10:12.040Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Qowb4ODg9iHaEQb0ujUP" version="22.1.3" type="github">
+<mxfile modified="2023-11-21T05:12:17.122Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="zxfX7w1nTUfPlRg4kB6v" version="22.1.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="3218" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4538" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1040,7 +1040,7 @@
         </mxCell>
         <mxCell id="WKTKmcEFWRnHBM82iFPJ-8" value="&lt;div&gt;Call rest service&lt;/div&gt;&lt;div&gt;tosearch and update rules&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WKTKmcEFWRnHBM82iFPJ-7">
           <mxGeometry x="-0.7045" y="-7" relative="1" as="geometry">
-            <mxPoint x="-27" y="25" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
