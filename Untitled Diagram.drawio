@@ -1,6 +1,6 @@
-<mxfile modified="2023-11-21T07:56:57.832Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="JBnA1FGGrYPJ5jB53WTE" version="22.1.3" type="github">
+<mxfile modified="2023-11-21T08:00:56.573Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="KCfTLcUN-VcsseV3lp-9" version="22.1.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="2534" dy="100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2801" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1768,7 +1768,7 @@
           <mxGeometry x="-240" y="1747" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WKTKmcEFWRnHBM82iFPJ-216" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1920" width="320" height="160" as="geometry" />
+          <mxGeometry x="-240" y="1920" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="WKTKmcEFWRnHBM82iFPJ-217" value="Rest" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
           <mxGeometry x="-217" y="1774" width="50" height="48" as="geometry" />
@@ -1779,11 +1779,8 @@
         <mxCell id="WKTKmcEFWRnHBM82iFPJ-219" value="KafKa Pod" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
           <mxGeometry x="-230" y="1969.75" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="WKTKmcEFWRnHBM82iFPJ-220" value="Rest NodePort" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=svc" vertex="1" parent="1">
-          <mxGeometry x="-147" y="1715.5" width="50" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WKTKmcEFWRnHBM82iFPJ-221" value="Kafka ClusterIP" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;&#xa;labelPosition=right;verticalLabelPosition=center;align=left;verticalAlign=middle;spacingLeft=5;shape=mxgraph.kubernetes.icon;prIcon=svc;" vertex="1" parent="1">
-          <mxGeometry x="-303" y="1890" width="50" height="48" as="geometry" />
+        <mxCell id="WKTKmcEFWRnHBM82iFPJ-221" value="&lt;font color=&quot;#000000&quot;&gt;Kafka ClusterIP&lt;/font&gt;" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;&#xa;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;shape=mxgraph.kubernetes.icon;prIcon=svc;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="1890" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WKTKmcEFWRnHBM82iFPJ-222" value="KafKa Pod" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
           <mxGeometry x="-145" y="1969.75" width="50" height="48" as="geometry" />
@@ -1791,8 +1788,13 @@
         <mxCell id="WKTKmcEFWRnHBM82iFPJ-223" value="KafKa Pod" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
           <mxGeometry x="-60" y="1969.75" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="WKTKmcEFWRnHBM82iFPJ-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WKTKmcEFWRnHBM82iFPJ-38" target="WKTKmcEFWRnHBM82iFPJ-220">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WKTKmcEFWRnHBM82iFPJ-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WKTKmcEFWRnHBM82iFPJ-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-155" y="1709.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WKTKmcEFWRnHBM82iFPJ-228" value="&lt;font color=&quot;#000000&quot;&gt;Rest NodePort&lt;br&gt;&lt;/font&gt;" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;&#xa;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;shape=mxgraph.kubernetes.icon;prIcon=svc;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="1716" width="50" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
